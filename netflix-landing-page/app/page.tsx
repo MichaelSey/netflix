@@ -9,7 +9,7 @@ const Home: React.FC = () => {
     <div>
       <Head>
         <title>Netflix</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href='/netflix-logo.png' />
       </Head>
       <LandingPage />
     </div>

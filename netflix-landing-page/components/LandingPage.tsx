@@ -79,7 +79,7 @@ const LandingPage: React.FC = () => {
   return (
     <Container>
       <Header>
-        <Logo src="netflix-logo.png" alt="Netflix Logo" />
+        <Logo src="netflix-logo.png" alt="Netflix Logo"  />
         <Button>Sign In</Button>
       </Header>
       <MainContent>
